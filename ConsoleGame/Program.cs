@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleGame
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
+           //Create the game
+
         }
     }
 }

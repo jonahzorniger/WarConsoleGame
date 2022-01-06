@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleGame
 {
-    internal class Suit
+    public enum Suit
     {
+        Clubs, Diamonds, Spades, Hearts
     }
 }
