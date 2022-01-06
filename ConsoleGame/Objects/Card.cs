@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleGame.Objects
 {
-    internal class Card
+    public class Card
     {
+        public string Name { get; set; }   
+        public Suit Suit { get; set; }  
+        public int Value { get; set; }
+
     }
 }
